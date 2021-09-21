@@ -1,0 +1,6 @@
+Hello World !
+How are you ?
+My name is Max.
+I live in Russia.
+I am learning Python :)
+Goodbye !!!
